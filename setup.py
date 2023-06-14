@@ -64,7 +64,7 @@ description = """The BigQuery adapter plugin for dbt"""
 
 setup(
     name="dbt-bigquery",
-    version=_dbt_bigquery_version(),
+    version="1.5.1",
     description="The Bigquery adapter plugin for dbt",
     long_description=README.read_text(),
     long_description_content_type="text/markdown",
